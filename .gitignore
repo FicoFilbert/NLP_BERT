@@ -1,0 +1,7 @@
+bert_sarcasm_model/
+*.pt
+*.pkl
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
