@@ -1,0 +1,23 @@
+{
+  "baris_mentah": 55328,
+  "baris_unik": 28503,
+  "rasio_sarkastik": 0.4755,
+  "train": 22802,
+  "val": 2850,
+  "test": 2851,
+  "vocab": 15000,
+  "metrics": {
+    "cnn_bilstm_attention": {
+      "accuracy": 0.8302,
+      "precision": 0.807,
+      "recall": 0.8451,
+      "f1": 0.8256
+    },
+    "bert": {
+      "accuracy": 0.9169,
+      "precision": 0.8977,
+      "recall": 0.9314,
+      "f1": 0.9142
+    }
+  }
+}
