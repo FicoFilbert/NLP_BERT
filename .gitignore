@@ -5,3 +5,8 @@ bert_sarcasm_model/
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
+
+# salinan/duplikat, tidak perlu di repo
+*.zip
+processed_data/
+Hasil_Eksperimen/1_Data_Mentah/*.json
